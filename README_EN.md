@@ -13,7 +13,13 @@
 
 ## Introduction
 
-The Jieba Chinese Word Segmentation Implemented By Node.js .
+The Jieba Chinese Word Segmentation Implemented By Node.js.
+
+### Why?
+
+As you're reading this in English, you may be unaware of how words are separated in Chinese. They aren't! Spaces are sometimes used as punctuation, but not as word delimiters.
+
+So in order to separate words in in Chinese we need more advanced methods. This library handles that problem.
 
 ## Download
 
